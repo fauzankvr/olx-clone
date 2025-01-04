@@ -1,0 +1,22 @@
+.popcontiner{
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+}
+
+.popimg{
+  width: 100px;
+
+}
+.phonebtn{
+  display:flex;
+  border-radius: 5px;
+  border: 5px;
+  border-color: black;
+  width:340px
+}
+
+.phonebtn svg{
+  margin-right: 40px;
+
+}
